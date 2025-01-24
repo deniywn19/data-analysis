@@ -86,13 +86,4 @@ This project demonstrates how to clean and format financial data using DuckDB an
 
       ![notebook-on-docker](images/6_notebook-on-docker.png)
 
-## Data Cleaning
-### 1. load data
-   - write about load data on duck db
-### 2. reformat
-   - write about reformat on duck db
-### 3. check duplicate
-   - write about duplicate on duck db
-### 4. check missing value
-   - write about missing value on duck db
-
+## running duck db on jupyter notebook
