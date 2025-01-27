@@ -1,4 +1,0 @@
-docker
-python
-pandas
-duckdb 
